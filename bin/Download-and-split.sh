@@ -8,7 +8,7 @@ MOUNTDIR=${WD}/mount
 # ZIP_FILENAME is the name of the zipfile we download from hootoo
 # UPDATE_FILENAME is the name of the update file we get from the zip file
 ZIP_FILENAME="HooToo-HT-TM05-2.000.022.zip"
-UPDATE_FILENAME="fw-7620-WiFiDGRJ-HooToo-HT-TM05-2.000.022"
+UPDATE_FILENAME="fw-7620-WiFiDGRJ-HooToo-HT-TM05-2.000.082"
 
 UPDATE_URL="http://www.hootoo.com/media/downloads/${ZIP_FILENAME}"
 
